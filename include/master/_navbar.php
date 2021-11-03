@@ -9,7 +9,8 @@
                 $_REQUEST['page'] == 'schedule' ||
                 $_REQUEST['page'] == 'speakers' ||
                 $_REQUEST['page'] == 'venue' ||
-                $_REQUEST['page'] == 'contact'     
+                $_REQUEST['page'] == 'gallery' ||
+                $_REQUEST['page'] == 'contact'
             ) {
                 $class = "";
             } else {
@@ -45,7 +46,12 @@
                                             <li><a href="index?page=bali">About Bali</a></li>
                                         </ul>
                                     </li>
-                                    <li><a href="index?page=committee">Committee</a></li>
+                                    <li><a href="#">Event</a>
+                                        <ul>
+                                            <li><a href="index?page=committee">Committee</a></li>
+                                            <li><a href="index?page=gallery">Gallery Event</a></li>
+                                        </ul>
+                                    </li>
                                     <li><a href="index?page=home#schedule">Schedule & Fee</a></li>
                                     <li><a href="index?page=home#cp">Contact Us</a></li>
                                 </ul>

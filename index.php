@@ -57,6 +57,9 @@
                         case 'contact':
                                 include 'include/page/contact.php';
                                 break;
+                        case 'gallery':
+                                include 'include/page/gallery.php';
+                                break;
                         default:
                                 include 'include/page/404.php';
                                 break;
