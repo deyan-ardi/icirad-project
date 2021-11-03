@@ -16,6 +16,7 @@
   <section class="about-section">
       <div class="container">
           <div class="row">
+            <!--
               <div class="col-md-6">
                   <div class="amout-img">
                       <img src="assets/img/about/about.jpg" alt="">
@@ -35,14 +36,15 @@
                       </div>
                   </div>
               </div>
-              <div class="col-md-6">
+            -->
+
+              <div class="col-md-12">
                   <div class="about-content">
                       <h1>About ICIRAD 2021</h1>
-                      <p class="text-justify">International Conference on Innovative Research across Disciplines (ICIRAD) is a biennial international conference, which is a platform for cross-discipline studies among international researchers and scholars across the world. It brings together state of the art research in the teaching of natural sciences, humanities, technology, health and medicine. ICIRAD is organized by the Research and Community Service Institute of Universitas Pendidikan Ganesha. ICIRAD has been conducted since 2015 and this year, 2019 becomes the third event. The 3rd ICIRAD will be held on the 20th-21st September 2019 at Grand Inna Bali Beach Sanur Bali, Indonesia, an innovation venue that creates stimulating, sociable, and friendly academic atmosphere.</p>
-                      <p class="text-justify">
-                          All full paper submissions to the ICIRAD 2019 should only be written in English, and will be reviewed by at least two reviewers and evaluated based on originality, technical or research content or depth, correctness, and relevance to conference. The ICIRAD Proceedings will be published by Atlantis Press and indexed by Thomson Reuteurs and Google Scholar. All articles get a digital object identifier (DOI). Extra charge applies to those whose articles are published by Atlantis Press.
-                          Papers which cannot be accepted by Atlantis Press will be published in Proceedings with ISBN and indexed by Google scholar without any extra payment. </p>
-                  </div>
+                       <p class="text-justify">
+                        Held by <strong>The Research and Community Service Institute of Universitas Pendidikan Ganesha in partnership with Don Mariano Marcos Memorial State University </strong>, International Conference on Innovative Research across Disciplines (ICIRAD) is a biennial international academic conference, which encourage academics and scholar to exchange ideas. As a platform for cross-discipline studies among international researchers and scholars, ICIRAD facilitates respectful discussion and provides opportunity for making new networking across disciplinary borders in the teaching of natural sciences, humanities, technology, health and medicine. ICIRAD has been conducted since 2015 and this year, 2021 becomes the fourth event. <br><br>
+                        All full paper submissions to the ICIRAD 2019 should only be written in English, and will be reviewed by at least two reviewers and evaluated based on originality, technical or research content or depth, correctness, and relevance to conference. The ICIRAD Proceedings will be published by International Reputable Publisher. All articles get a digital object identifier (DOI).
+                    </p>
               </div>
           </div>
       </div>
@@ -68,14 +70,14 @@
 
 
   <section class="event-outcome eo-inner">
-      <span class="wow fadeInUp" data-wow-delay=".5s">Theme</span>
-      <h1 class="wow fadeInUp" data-wow-delay=".5s">Theme This Years</h1>
+      <span class="wow fadeInUp" data-wow-delay=".5s">ICIRAD 2021</span>
+      <h1 class="wow fadeInUp" data-wow-delay=".5s">Conference Theme</h1>
       <div class="container">
           <div class="row ">
               <div class="col-12">
                   <div class="single-e-out wow fadeInUp" data-wow-delay=".3s">
                       <span class="flaticon-targeting f-icon"></span>
-                      <h2 class="text-center">"ADVANCING INTO DIGITAL ERA THROUGH INNOVATIONS ACROSS DISCIPLINES"</h2>
+                      <h2 class="text-center">"Enhancing Sustainable Development Through Innovation and Creativity"</h2>
 
                   </div>
               </div>
@@ -86,28 +88,27 @@
 
 
   <section class="event-outcome eo-inner">
-      <span class="wow fadeInUp" data-wow-delay=".5s">Notice</span>
+      <span class="wow fadeInUp" data-wow-delay=".5s">ICIRAD 2021</span>
       <h1 class="wow fadeInUp" data-wow-delay=".5s">Aim and Scope</h1>
       <div class="container">
           <div class="row">
               <div class="col-12">
                   <div class="single-e-out wow fadeInUp" data-wow-delay=".3s">
-                      <p class="text-justify">To bring the recent studies in the content of educations for teachers of math and natural sciences, language and arts, social sciences and humanities, as well as the application of technology in education, the 3rd ICIRAD 2019 invites papers and presentations in the following topics:</p>
-                      <ol>
-                          <li><i class="fa fa-check"></i> Mathematics and natural science education</li> <br>
-                          <li><i class="fa fa-check"></i> Social science education</li><br>
-                          <li><i class="fa fa-check"></i> Second language acquisition</li><br>
-                          <li><i class="fa fa-check"></i> Literature for language learning</li><br>
-                          <li><i class="fa fa-check"></i> The teaching of art</li><br>
-                          <li><i class="fa fa-check"></i> Educational technology and vocational</li><br>
-                          <li><i class="fa fa-check"></i> Educational curriculum and technology</li><br>
-                          <li><i class="fa fa-check"></i> Guidance and counselling education</li><br>
-                          <li><i class="fa fa-check"></i> Sport science and physical education</li><br>
-                          <li><i class="fa fa-check"></i> Elementary teachers education</li><br>
-                          <li><i class="fa fa-check"></i> Preschool teachers education</li><br>
-                          <li><i class="fa fa-check"></i> The impact of globalisation in education</li><br>
-                          <li><i class="fa fa-check"></i> Other areas in education</li>
-                      </ol>
+                      <p class="text-justify">To bring the recent studies in the content of educations for teachers of math and natural sciences, language and arts, social sciences and humanities, as well as the application of technology in education, the 4th ICIRAD 2021 invites papers and presentations in the following topics:</p>
+                      <br>
+                     <i class="fa fa-check"></i> Mathematics and natural sciences<br>
+                            <i class="fa fa-check"></i> Mathematics and natural sciences<br>
+                            <i class="fa fa-check"></i> Health Sciences and Medicine<br>
+                            <i class="fa fa-check"></i> Language Education<br>
+                            <i class="fa fa-check"></i> Primary teachers education<br>
+                            <i class="fa fa-check"></i> Educational Technology<br>
+                           <i class="fa fa-check"></i> Vocational education and training<br>
+                            <i class="fa fa-check"></i> Fine arts and visual design<br>
+                            <i class="fa fa-check"></i> Psychology<br>
+                            <i class="fa fa-check"></i> Sport science and physical education<br>
+                            <i class="fa fa-check"></i> Fishery<br>
+                           <i class="fa fa-check"></i> Social Science and Humanities<br>
+                           <i class="fa fa-check"></i> Aquaculture<br>
                   </div>
               </div>
           </div>

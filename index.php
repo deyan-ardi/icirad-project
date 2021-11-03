@@ -4,10 +4,18 @@
 <head>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <meta http-equiv="X-UA-Compatible" content="ie=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+        <meta name="title" content="International Conference on Innovative Research across Disciplines (ICIRAD)">
+        <meta name="description" content="Held by The Research and Community Service Institute of Undiksha in partnership with Don Mariano Marcos Memorial State University.">
+        <meta name="keywords" content="ICIRAD, 2021, ICIRAD 2021, UNDIKSHA, LPPM, International Conference, Conference, Research">
+        <meta name="robots" content="index, follow">
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+        <meta name="language" content="English">
+        <meta name="revisit-after" content="1 days">
+        <meta name="author" content="LPPM Undiksha">
+        <meta name="google-site-verification" content="sFdrWqSTlhuv0X9nlJrqIYpX9URcygEZRcy0_Ajnay4" />
         <title>ICIRAD 2021 | Universitas Pendidikan Ganesha</title>
 
-        <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
         <?php include 'include/master/_header.php' ?>
 </head>
 
@@ -25,7 +33,7 @@
                         case 'home':
                                 include 'include/page/home.php';
                                 break;
-                        case 'about': 
+                        case 'about':
                                 include 'include/page/about/about.php';
                                 break;
                         case 'undiksha':
@@ -49,7 +57,7 @@
                         case 'contact':
                                 include 'include/page/contact.php';
                                 break;
-                        default: 
+                        default:
                                 include 'include/page/404.php';
                                 break;
                 }

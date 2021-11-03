@@ -114,7 +114,7 @@
                                         <div class="ed-content">
                                             <h5>Download Detail Schedule</h5>
                                             <p>You can download detail schedule for Conference Day in September 20 <sup>th</sup> 2019 </p>
-                                            <a href="#" class="btn-3 mt-3">Download Schedule</a>
+                                            <a href="https://drive.google.com/file/d/1evdujfqK-00q8G4Lku8QxPdWWvDkj8-I/view?usp=sharing" class="btn-3 mt-3">Download Schedule</a>
                                         </div>
                                     </div>
                                 </div>

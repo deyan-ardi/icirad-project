@@ -3,8 +3,8 @@
          <div class="row">
              <div class="col-md-12">
                  <div class="subscribe">
-                     <h1>ICIRAD 2021 Conference</h1>
-                     <p> The 4<sup>th</sup> International Conference On Innovative Research Across Disciplines. 21<sup>th</sup> - 24<sup>th</sup> September 2021 at Grand Inna Bali Beach Sanur Bali, Indonesia</p>
+                     <h1>ICIRAD 2021</h1>
+                     <p> The 4<sup>th</sup> International Conference On Innovative Research Across Disciplines. <br>Universitas Pendidikan Ganesha, Bali - Indonesia</p>
                  </div>
                  <div class="footer-nav">
                      <ul>
@@ -20,7 +20,7 @@
                          <a href="#"><img src="assets/img/logo.png" alt=""></a>
                      </div>
                      <div class="fb-text">
-                         <p> Copyright © <?= date('Y'); ?> LPPM Undiksha Powered By Ganatech ID </p>
+                         <p> Copyright © <?= date('Y'); ?> LPPM Undiksha | Powered By GAP x Ganatech ID </p>
                      </div>
                      <div class="fb-s-icon">
                          <ul>

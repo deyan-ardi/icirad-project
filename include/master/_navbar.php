@@ -46,14 +46,8 @@
                                         </ul>
                                     </li>
                                     <li><a href="index?page=committee">Committee</a></li>
-                                    <li><a href="#">Other</a>
-                                        <ul>
-                                            <li><a href="index?page=schedule">Schedule & Fee</a></li>
-                                            <li><a href="index?page=speakers">Speakers</a></li>
-                                            <li><a href="index?page=venue">Venue</a></li>
-                                        </ul>
-                                    </li>
-                                    <li><a href="index?page=contact">Contact Us</a></li>
+                                    <li><a href="index?page=home#schedule">Schedule & Fee</a></li>
+                                    <li><a href="index?page=home#cp">Contact Us</a></li>
                                 </ul>
                             </nav>
                             <div class="header-ticket">
